@@ -3,5 +3,6 @@
 
 Based on following img Reference:
 
-![Image of Yaktocat]
-(https://octodex.github.com/images/yaktocat.png)
+![Alt Text](https://github.com/rkarthick90/toddle-assign/blob/master/CurriculumAuthoringTool.gif)
+
+
