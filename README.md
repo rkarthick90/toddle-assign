@@ -2,4 +2,6 @@
 
 
 Based on following img Reference:
+
+![Image of Yaktocat]
 (https://octodex.github.com/images/yaktocat.png)
